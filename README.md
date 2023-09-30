@@ -1,1 +1,1 @@
-0x00. Shell, basics\n
+0x01. Shell, permissions
